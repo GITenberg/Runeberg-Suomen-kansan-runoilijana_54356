@@ -1,11 +1,16 @@
 _repo: Runeberg-Suomen-kansan-runoilijana_54356
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vasenius, Valfrid
     gutenberg_agent_id: '47839'
     url: http://www.gutenberg.org/2009/agents/47839
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54356#Runeberg-Suomen-kansan-runoilijana
 gutenberg_issued: '2017-03-13'
 gutenberg_type: Text
 identifiers:
